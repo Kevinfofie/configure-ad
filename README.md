@@ -88,20 +88,41 @@ Step 2 Installation of Active Directory
 <img src="https://i.imgur.com/V3WsJe3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After a sucessful login to DC-lab, we install Active Directory Domain Services, next we Promote as a DC: Seting up a new forest as fofie.com.
+After a sucessful login to DC-lab, we install Active Directory Domain Services fofie.com.
 </p>
 Step 3 Creating an Admin and Normal User Account in AD-lab
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TD5vfpW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/juqX8FI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/gbfNRe4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/jglq0Pz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After the creation of domain controllers, next we Promote as a DC: Seting up a new forest as fofie.com. In Active Directory Users and Computers (ADUC), creating an Organizational Unit (OU) called “_EMPLOYEES”. Additionally, Creating a new Organizational Unit (OU) named “_ADMINS” Furthermore, we add a new administrator into the system as Adam Doe, with the username adam_admin log off and sign in as an admin called adam_admin.
+</p>
+<p>
+<img src="https://i.imgur.com/9RAhMtQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/1AerEZl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After logging off, we sign in as one of the administrators adam_admin.
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>

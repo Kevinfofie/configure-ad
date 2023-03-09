@@ -21,10 +21,18 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1 Creating the Domain Controller in  Microsoft Azure (Virtual Machines, Windows Server 2022) named “DC-lab”
+
+- Step 2 Ensuring Connectivity between the client and Domain Controller
+- Step 3 Install Active Directory
+
+- Step 4 Creating an Admin and Normal User Account in AD-lab
+
+- Step 5 Join Client to your domain (fofie.com)
+
+- Step 6 Setup Remote Desktop for non-administrative users on Client
+- Step 7 Create a bunch of additional users and attempt to log into client-1 with one of the users
+
 
 <h2>Deployment and Configuration Steps</h2>
 
